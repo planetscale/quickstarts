@@ -10,7 +10,10 @@ Download Binary Application
 
 Run the Application
 ===================
-Once you've selected a method and have the daemon running, navigate to http://localhost:8000/ in your browser, enter the database URL that was displayed in your PlanetScaleDB Quick Start screen, create an account, and start rating doggos!
+
+Once you've selected a method and have the daemon running, navigate to http://localhost:8000/ in your browser, enter the database URL that was displayed in your PlanetScaleDB Quickstart Details screen, create an account, and start rating doggos!
+
+For more details, please refer to the [blog post here.](https://www.planetscale.com/blog/learn-horizontal-scaling-on-planetscaledb-with-vitess-rate-puppies-in-a-rust-app-with-sharded-mysql-database)
 
 Docker
 ======
