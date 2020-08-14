@@ -4,8 +4,9 @@ Download Binary Application
 
 * Above, you will find prebuilt-binaries for Mac OSX, Windows and Linux
 * Download the archive containing the name of your platform above and extract it to your preferred location.
-  * On Windows, navigate Explorer to that location and double-click `goodest-doggo.exe`.
-  * On Linux and OSX, navigate a terminal to that location and run `./goodest-doggo`; note that it's important for the current working directory to be the location containing the binary and other artifacts.
+  * On Windows, navigate Explorer to that location and double-click `doggo-api.exe`.
+    * Note:  If you run the binary from inside the zip folder, make sure you select "extract all"!
+  * On Linux and OSX, navigate a terminal to that location and run `./doggo-api`; note that it's important for the current working directory to be the location containing the binary and other artifacts.
 
 
 Run the Application
