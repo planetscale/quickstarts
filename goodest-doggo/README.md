@@ -18,7 +18,7 @@ Docker
 We also have a container image on Docker Hub.
 
 ```bash
-docker run --name=goodest-doggo -p8000:8000 goodest-doggo
+docker run --name=goodest-doggo -p8000:8000 planetscale/goodest-doggo
 ```
 
 Source Code
